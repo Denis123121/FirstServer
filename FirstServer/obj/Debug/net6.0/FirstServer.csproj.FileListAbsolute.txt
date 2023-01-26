@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\bin\Debug\net6.0\FirstServer.exe
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\bin\Debug\net6.0\FirstServer.deps.json
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\bin\Debug\net6.0\FirstServer.runtimeconfig.json
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\bin\Debug\net6.0\FirstServer.dll
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\bin\Debug\net6.0\FirstServer.pdb
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\obj\Debug\net6.0\FirstServer.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\obj\Debug\net6.0\FirstServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\obj\Debug\net6.0\FirstServer.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\obj\Debug\net6.0\FirstServer.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\obj\Debug\net6.0\FirstServer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\obj\Debug\net6.0\FirstServer.dll
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\obj\Debug\net6.0\refint\FirstServer.dll
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\obj\Debug\net6.0\FirstServer.pdb
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\obj\Debug\net6.0\FirstServer.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\FirstServer\FirstServer\obj\Debug\net6.0\ref\FirstServer.dll

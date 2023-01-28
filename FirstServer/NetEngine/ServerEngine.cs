@@ -58,20 +58,19 @@ public class ServerEngine
         Log($"MESSAGE FROM CLIENT RECIEVED: {messageFromClient}");
         
         WalletCommands commands = new WalletCommands();
+        
         if (messageFromClient == "в золото")
         {
-            commands.InvestInGoldCoins(33);
+            return commands.InvestInGoldCoins(33);
         }
         else if (messageFromClient == "в серебро")
         {
-            commands.InvestInSilverCoins(3);
+            return commands.InvestInSilverCoins(3);
         }
         else
         {
-            Console.WriteLine("dd");
+            return messageFromClient;
         }
-
-        return messageFromClient;
     }
 
     public void CloseClientSocket()

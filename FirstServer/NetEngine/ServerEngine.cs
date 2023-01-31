@@ -56,21 +56,8 @@ public class ServerEngine
         string messageFromClient = messageBuilder.ToString();
 
         Log($"MESSAGE FROM CLIENT RECIEVED: {messageFromClient}");
-        
-        WalletCommands commands = new WalletCommands();
-        
-        if (messageFromClient == "в золото")
-        {
-            return commands.InvestInGoldCoins(33);
-        }
-        else if (messageFromClient == "в серебро")
-        {
-            return commands.InvestInSilverCoins(3);
-        }
-        else
-        {
-            return messageFromClient;
-        }
+
+        return messageFromClient;
     }
 
     public void CloseClientSocket()
